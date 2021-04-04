@@ -1,1 +1,1 @@
-# SSB-352-first-assignment
+# SSB-352
